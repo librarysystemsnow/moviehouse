@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1046389_movihose.mh_admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_1046389_movihose.mh_admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 13:38:46</sys_created_on>
+        <sys_id>591e6fe547c002107a3ab6bf016d4327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1046389_movihose.mh_admin</sys_name>
+        <sys_package display_value="Movie House" source="x_1046389_movihose">a5ede3a947c002107a3ab6bf016d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie House">a5ede3a947c002107a3ab6bf016d43d0</sys_scope>
+        <sys_update_name>sys_user_role_591e6fe547c002107a3ab6bf016d4327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 13:38:46</sys_updated_on>
+    </sys_user_role>
+</record_update>

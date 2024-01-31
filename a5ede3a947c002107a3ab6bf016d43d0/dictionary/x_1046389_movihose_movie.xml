@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5170bb6d47c002107a3ab6bf016d43b1" label="Movie" max_length="40" name="x_1046389_movihose_movie" type="collection">
+        <element attributes="encode_utf8=false" label="Cast" max_length="32" name="cast" reference="incident" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="5000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Dimension" max_length="500" name="dimension" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Director" max_length="500" name="director" type="string"/>
+        <element label="Duration" max_length="40" name="duration" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="Languages" max_length="500" name="languages" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="400" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Producer" max_length="500" name="producer" type="string"/>
+        <element label="Rating" max_length="40" name="rating" type="float"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Views" max_length="40" name="views" type="integer"/>
+        <index name="index">
+            <element name="cast"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

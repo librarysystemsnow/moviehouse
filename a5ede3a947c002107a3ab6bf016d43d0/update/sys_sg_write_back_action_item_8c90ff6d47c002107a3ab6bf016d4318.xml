@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Movie)</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 13:49:37</sys_created_on>
+        <sys_id>8c90ff6d47c002107a3ab6bf016d4318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Movie)</sys_name>
+        <sys_package display_value="Movie House" source="x_1046389_movihose">a5ede3a947c002107a3ab6bf016d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie House">a5ede3a947c002107a3ab6bf016d43d0</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_8c90ff6d47c002107a3ab6bf016d4318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 13:49:37</sys_updated_on>
+        <table>x_1046389_movihose_movie</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c90ff6d47c002107a3ab6bf016d4318"/>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1046389_movihose_movie</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Movie Form Screen">8c90ff6d47c002107a3ab6bf016d4311</embedded_screen>
+        <item_view/>
+        <name>Movie master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 13:49:37</sys_created_on>
+        <sys_id>0490ff6d47c002107a3ab6bf016d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Movie master_item</sys_name>
+        <sys_package display_value="Movie House" source="x_1046389_movihose">a5ede3a947c002107a3ab6bf016d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie House">a5ede3a947c002107a3ab6bf016d43d0</sys_scope>
+        <sys_update_name>sys_sg_master_item_0490ff6d47c002107a3ab6bf016d4316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 13:49:37</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Movie List Screen View Config">b380ffa947c002107a3ab6bf016d4359</view_config>
+    </sys_sg_master_item>
+</record_update>
